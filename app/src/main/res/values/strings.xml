@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_weight">Weight (kg)</string>
+    <string name="text_height">Height (m)</string>
+    <string name="error_input">Invalid value.</string>
+    <string name="image_bmi">Image</string>
+    <string name="text_bmi">BMI</string>
+    <string name="text_status">Status</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_reset">Reset</string>
+</resources>
